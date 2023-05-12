@@ -1,7 +1,9 @@
+import Container from "./Container";
 function App() {
   return (
     <div className="App">
-  hello
+      hello
+      <Container />
     </div>
   );
 }
