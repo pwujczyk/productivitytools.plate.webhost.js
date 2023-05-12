@@ -3,7 +3,7 @@ import { PTPlate } from "productivitytools.plate";
 function Container(){
     return(<div>
         <span>Container</span>
-        <PTPlate></PTPlate>
+        <PTPlate content="pawel"></PTPlate>
         <span>ptplate ended</span>
     </div>)
 }
